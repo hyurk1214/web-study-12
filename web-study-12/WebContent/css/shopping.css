@@ -1,0 +1,38 @@
+@charset "UTF-8";
+#wrap{
+	width: 971px;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top : 150px;
+
+}
+
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12px;
+	line-height: 24px;
+}
+table td, th{
+	font-weight:bold;
+	border: #d3d3d3 solid 1px;
+	padding: 5px;
+	background-color:rgba(60,45,10,0.05);
+}
+th{
+	background: skyblue;
+}
+img{
+	width: 220px;
+	height: 300px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	text-decoration: underline;
+	color: green;
+}
